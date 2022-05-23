@@ -6,4 +6,4 @@ I can create any type of Plugins for Spigot/Paper. Fell free to contact me for a
 Developer at [CosmoGroup](https://github.com/cosmogrp) and [MineAqua](https://github.com/MineAqua).
 Wakatime: https://wakatime.com/@cassha.
 
-#### Discord: Cassha#7138 Email: contact@alesidev.club
+#### Discord: AlexisDev#7138 Email: contact@alesidev.club
