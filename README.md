@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MineAqua](https://mineaqua.net/)
 
-- 👨‍💻 All of my projects are available at [alexissdev.me](alexissdev.me)
+- 👨‍💻 All of my projects are available at [alexissdev.me](https://www.alexissdev.me)
 
 - 💬 Ask me about **Java, JavaScript, TypeScript, React, NextJS**
 
