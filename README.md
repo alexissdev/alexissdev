@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alexis</h1>
 <h3 align="center">FullStack Developer of Argentina.</h3>
 
-- 🔭 I’m currently working on [MineAqua](https://mineaqua.net/)
+- 🔭 I’m currently working on [?]()
 
 - 👨‍💻 All of my projects are available at [alexissdev.me](https://www.alexissdev.me)
 
