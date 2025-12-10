@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [?]()
 
-- 👨‍💻 All of my projects are available at [alexissdev.me](https://www.alexissdev.me)
+- 👨‍💻 All of my projects are available at [alexissdev.me](https://www.alexissdev.dev)
 
 - 💬 Ask me about **Java, JavaScript, TypeScript, React, NextJS**
 
-- 📫 How to reach me **contact@alexissdev.me**
+- 📫 How to reach me **contact@alexissdev.dev**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
