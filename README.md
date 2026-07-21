@@ -68,8 +68,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=alexissdev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexissdev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexissdev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexissdev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -79,7 +79,7 @@
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alexissdev&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-trophy-nine.vercel.app/?username=alexissdev&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ### 🐍 Contribution Snake
